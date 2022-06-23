@@ -1,0 +1,13 @@
+select avg (rental_rate )
+From film 
+
+
+select count film name like 'C%'
+From film
+
+select rental_rate değeri = 0.99
+From film
+order in length
+select count (length > 150 and 
+From  replacement_cost 
+
